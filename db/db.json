@@ -1,18 +1,14 @@
 {
   "contacts": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Carmack",
-      "street": "10 Keen Street",
-      "city": "London"
-    },
-    {
-      "id": 2,
-      "firstName": "Grace",
-      "lastName": "Hopper",
-      "street": "32 Deebug Road",
-      "city": "London"
+      "firstName": "mike",
+      "lastName": "ciccia",
+      "street": "Via appia vecchia 14",
+      "city": "Roma",
+      "email": "mikeciccia@gmail.com",
+      "truthSocial": "",
+      "linkedIn": "Michele_Ciccia",
+      "id": 1
     }
   ]
 }
